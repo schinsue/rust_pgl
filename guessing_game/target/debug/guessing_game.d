@@ -1,1 +1,1 @@
-/home/amplifix/projects/rust/guessing_game/target/debug/guessing_game: /home/amplifix/projects/rust/guessing_game/src/main.rs
+/Users/sergiorachid/Projects/rust_pgl/guessing_game/target/debug/guessing_game: /Users/sergiorachid/Projects/rust_pgl/guessing_game/src/main.rs
