@@ -6,22 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18a03d51-fad3-48b5-9d2e-19ac39f5600d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/branches/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/branches" beforeDir="false" afterPath="$PROJECT_DIR$/branches/target/debug/branches" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/deps/branches" beforeDir="false" afterPath="$PROJECT_DIR$/branches/target/debug/deps/branches" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/deps/branches.dSYM/Contents/Resources/DWARF/branches" beforeDir="false" afterPath="$PROJECT_DIR$/branches/target/debug/deps/branches.dSYM/Contents/Resources/DWARF/branches" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/145rc19ow74138y0.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/2f4ga95i4s66wdd1.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/2gyczm1xhi0kp57e.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/2nnoblkqnrw4kzb7.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/2y930y050t14ylyt.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/2zfohxw7x4sv4cfq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/3i4ovvqbbpisnj2l.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/at8plhdsxj15yzk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk-pw151a5moy9g/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/branches/target/debug/incremental/branches-3rbu6li4d0p6x/s-fud5bg3z89-1mcmvbk.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
