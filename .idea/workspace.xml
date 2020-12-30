@@ -7,22 +7,7 @@
     <list default="true" id="18a03d51-fad3-48b5-9d2e-19ac39f5600d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rectangles/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/deps/rectangles" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/target/debug/deps/rectangles" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/deps/rectangles.dSYM/Contents/Resources/DWARF/rectangles" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/target/debug/deps/rectangles.dSYM/Contents/Resources/DWARF/rectangles" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/2jr45whkzixcpy9c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/33sy0gsdt9euurec.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/3hgfwdegl4je3mtb.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/3l1pzthj60w0wglc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/3oxby2of1xdvm26b.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/4gallymepanllekz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/4rt2m2v1h0in4p3a.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/56dqnpp9d34hvzfi.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/s6fwsa9pf6csgmy.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q-3fnb636arvh99/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/incremental/rectangles-29lvrons2516q/s-fuglv07zr9-z1gd8q.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/rectangles" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/target/debug/rectangles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/.fingerprint/rectangles-86080be145a47eeb/bin-rectangles" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/target/debug/.fingerprint/rectangles-86080be145a47eeb/bin-rectangles" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
