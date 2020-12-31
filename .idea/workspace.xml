@@ -7,7 +7,6 @@
     <list default="true" id="18a03d51-fad3-48b5-9d2e-19ac39f5600d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rectangles/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rectangles/target/debug/.fingerprint/rectangles-86080be145a47eeb/bin-rectangles" beforeDir="false" afterPath="$PROJECT_DIR$/rectangles/target/debug/.fingerprint/rectangles-86080be145a47eeb/bin-rectangles" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
