@@ -9,9 +9,10 @@
   <component name="ChangeListManager">
     <list default="true" id="18a03d51-fad3-48b5-9d2e-19ac39f5600d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/minigrep/poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minigrep/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/rust_pgl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust_pgl.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minigrep/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/minigrep/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minigrep/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/minigrep/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +187,7 @@
       <workItem from="1612404549146" duration="4457000" />
       <workItem from="1614894335908" duration="440000" />
       <workItem from="1615042845989" duration="1095000" />
-      <workItem from="1615149464398" duration="15267000" />
+      <workItem from="1615149464398" duration="17559000" />
     </task>
     <servers />
   </component>
