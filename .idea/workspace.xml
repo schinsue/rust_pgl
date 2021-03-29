@@ -5,15 +5,10 @@
     <cargoProject FILE="$PROJECT_DIR$/lifetime_syntax/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/adder/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/minigrep/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/hello/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18a03d51-fad3-48b5-9d2e-19ac39f5600d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/minigrep/poem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rust_pgl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rust_pgl.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minigrep/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/minigrep/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minigrep/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/minigrep/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="18a03d51-fad3-48b5-9d2e-19ac39f5600d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Rust File" />
       </list>
     </option>
@@ -44,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,6 +58,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hello/src/bin" />
+      <recent name="$PROJECT_DIR$/hello/src" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -187,7 +190,9 @@
       <workItem from="1612404549146" duration="4457000" />
       <workItem from="1614894335908" duration="440000" />
       <workItem from="1615042845989" duration="1095000" />
-      <workItem from="1615149464398" duration="17559000" />
+      <workItem from="1615149464398" duration="19834000" />
+      <workItem from="1615762933873" duration="1135000" />
+      <workItem from="1616638395361" duration="7646000" />
     </task>
     <servers />
   </component>
